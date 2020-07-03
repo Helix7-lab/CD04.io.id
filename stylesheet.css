@@ -88,6 +88,8 @@ body {
   flex: auto;
   width: 20%;
   margin-top: 20px;
+  flex-directions: column;
+  margin: auto;
 }
 
 .lesson img {
