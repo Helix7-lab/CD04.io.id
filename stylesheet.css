@@ -74,6 +74,31 @@ body {
 
 
 /*untuk main*/
+.daftar {
+  padding-top: 50px;
+}
+
+.lessons {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.lesson {
+  flex: auto;
+  width: 20%;
+  margin-top: 20px;
+}
+
+.lesson img {
+  width: 200px;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  font-size: 15px;
+}
 .form {
 	padding-top: 100px;
 	}
